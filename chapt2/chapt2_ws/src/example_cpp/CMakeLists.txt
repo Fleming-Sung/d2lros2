@@ -23,9 +23,11 @@ endif()
 
 ament_package()
 
+## 以下内容需要自行添加
+# 指定编译的源代码
 add_executable(node_01 src/node_01.cpp)
 ament_target_dependencies(node_01 rclcpp)
-
+# 安装编译的节点
 install(TARGETS
   node_01
   DESTINATION lib/${PROJECT_NAME}
