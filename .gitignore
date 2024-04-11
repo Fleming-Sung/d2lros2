@@ -2,3 +2,11 @@
 /chapt2/colcon_test_ws/build/
 /chapt2/colcon_test_ws/install/
 /chapt2/colcon_test_ws/log/
+
+/chapt2/chapt2_ws/build/
+/chapt2/chapt2_ws/install/
+/chapt2/chapt2_ws/log/
+
+/chapt2/chapt2_ws/src/example_cpp/build/
+/chapt2/chapt2_ws/src/example_cpp/install/
+/chapt2/chapt2_ws/src/example_cpp/log/
