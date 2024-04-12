@@ -10,3 +10,6 @@
 /chapt2/chapt2_ws/src/example_cpp/build/
 /chapt2/chapt2_ws/src/example_cpp/install/
 /chapt2/chapt2_ws/src/example_cpp/log/
+
+/chapt2/chapt2_ws/src/example_py/resource/*
+/chapt2/chapt2_ws/src/example_py/test/*
