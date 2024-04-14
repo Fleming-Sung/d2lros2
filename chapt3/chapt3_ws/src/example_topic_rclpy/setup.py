@@ -1,6 +1,6 @@
 from setuptools import setup
 
-package_name = 'example_py'
+package_name = 'example_topic_rclpy'
 
 setup(
     name=package_name,
@@ -20,7 +20,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            "example_py = example_py.node_02:main"
+            "topic_publisher_02 = example_topic_rclpy.topic_publisher_02:main",
+            "topic_subscriber_02 = example_topic_rclpy.topic_subscriber_02:main"
         ],
     },
 )
