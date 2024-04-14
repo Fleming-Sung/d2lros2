@@ -13,3 +13,7 @@
 
 /chapt2/chapt2_ws/src/example_py/resource/*
 /chapt2/chapt2_ws/src/example_py/test/*
+
+/chapt3/chapt3_ws/build/
+/chapt3/chapt3_ws/install/
+/chapt3/chapt3_ws/log/
