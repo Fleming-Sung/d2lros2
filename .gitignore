@@ -1,3 +1,5 @@
+.vscode/*
+
 /chapt2/basic/build/
 /chapt2/colcon_test_ws/build/
 /chapt2/colcon_test_ws/install/
